@@ -4,19 +4,19 @@
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
 	xmlns:xhtml="http://www.w3.org/TR/xhtml11/xhtml11_schema.html">
 	<url>
-		<loc>https://volvereach.com</loc>
+		<loc>https://www.volvereach.com</loc>
 		<lastmod>2023-01-24T14:33:20+00:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
 	</url>
 	<url>
-		<loc>https://volvereach.com/accueil</loc>
+		<loc>https://www.volvereach.com/accueil</loc>
 		<lastmod>2023-01-24T14:33:20+00:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
 	</url>
 	<url>
-		<loc>https://volvereach.com/blog</loc>
+		<loc>https://www.volvereach.com/blog</loc>
 		<lastmod>2023-01-24T14:33:20+00:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
